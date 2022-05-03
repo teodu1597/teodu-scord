@@ -1,0 +1,20 @@
+{
+  "name": "teoduscord",
+  "version": "1.0.0",
+  "description": "my discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TeoDu1597",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2"
+  }
+}
